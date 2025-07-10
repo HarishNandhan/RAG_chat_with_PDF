@@ -3,4 +3,5 @@ faiss-cpu
 requests
 numpy
 streamlit
+python-dotenv
 
